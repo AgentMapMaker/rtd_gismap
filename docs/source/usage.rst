@@ -3,10 +3,10 @@ Usage
 
 .. _installation:
 
-Installation
+QGIS Installation
 ------------
 
-To use Lumache, first install it using pip:
+To use QGIS , first install it using pip:
 
 .. code-block:: console
 
